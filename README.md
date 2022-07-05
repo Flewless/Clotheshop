@@ -21,7 +21,7 @@ This is a clotheshop nui made for [FiveM](https://fivem.net/) compatible with [E
 
 ## Installation
 
-Only download this resource from [releases](https://github.com/Flewless/Clotheshop/releases). because this resource was build with react it can't run natively under FiveM. Make sure you download the .zip file as that one contains the bundled files. In case you would like to edit the inventory ui download the source code. To build it follow do this:
+Only download this resource from [releases](https://github.com/Flewless/Clotheshop/releases). because this resource was build with react it can't run natively under FiveM. Make sure you download the .zip file as that one contains the bundled files. In case you would like to edit the nui download the source code. To build it follow do this:
 
 in your console:
 
