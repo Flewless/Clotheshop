@@ -51,6 +51,7 @@ Shoutout to the following people for making the resource possible:
 
 - xorzo#3928
 - Mental Illness#0515
+- The guys from project-error for their awesome [react boilerplate](https://github.com/project-error/fivem-react-boilerplate-lua)
 
 ## Help
 
